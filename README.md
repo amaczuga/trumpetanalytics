@@ -1,2 +1,2 @@
-# inlet-data
-private parts
+# trumpetanalytics
+public parts
